@@ -97,7 +97,7 @@ render(){
       <Card className="basicCard">
         <div className="flex-container">
           <div className="imageContainer">
-            <Card.Img variant="top" src="/../img/ttt.png" />
+            <Card.Img variant="top" src="/../img/tic.png" />
           </div>
           <Card.Body className="card-content">
             <Card.Title>Tic Tac Toe Game</Card.Title>
