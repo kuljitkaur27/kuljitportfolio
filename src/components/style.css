@@ -42,8 +42,19 @@
   border-radius: 10px 10px 0px 0px;
 }
 
-.expImage {
-  height: auto;
+.imageCt-experience {
+  display: block;
+  border: solid 2px #ccc;
+  border-radius: 10px 10px 0px 0px;
+}
+.image-experience {
+  display: inherit;
+  width: auto;
+  height: 200px;
+  margin: auto;
+}
+.expClass {
+  width: 100%;
 }
 .card-content{
   flex: 1;
