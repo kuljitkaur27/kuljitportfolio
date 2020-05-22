@@ -21,7 +21,7 @@ class App extends Component {
     }
     return (
       <BrowserRouter>
-        <div >
+        <div>
           <div className="main-header">
               <div className="main-image">
                 <Image className="main-logo" style={style} src="/../img/myImage.png" alt="Kuljit Kaur Photo" />

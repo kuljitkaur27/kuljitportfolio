@@ -41,7 +41,7 @@ render(){
             </Card.Text>
           </Card.Body>
           <Card.Footer className="card-footer">
-            <Button variant="primary" onClick={this.btnClick1.bind(this)}>Details</Button>
+            <Button variant="primary" onClick={this.btnClick1.bind(this)}>Click to See!</Button>
             <span className="icon-spacer"></span>
             <SocialIcon className="icon-git" url="https://github.com/kuljitkaur27/yoga_frontend.git" />
           </Card.Footer>
@@ -64,7 +64,7 @@ render(){
             </Card.Text>
           </Card.Body>
           <Card.Footer className="card-footer">
-            <Button variant="primary" onClick={this.btnClick2.bind(this)}>Details</Button>
+            <Button variant="primary" onClick={this.btnClick2.bind(this)}>Click to See!</Button>
             <span className="icon-spacer"></span>
             <SocialIcon url="https://github.com/kuljitkaur27/Project2_Seller_Propertywebsite" />
           </Card.Footer>
@@ -87,7 +87,7 @@ render(){
             </Card.Text>
           </Card.Body>
           <Card.Footer className="card-footer">
-            <Button variant="primary" onClick={this.btnClick3.bind(this)}>Details</Button>
+            <Button variant="primary" onClick={this.btnClick3.bind(this)}>Click to See!</Button>
             <span className="icon-spacer"></span>
             <SocialIcon url="https://github.com/kuljitkaur27/aussie_market_frontend" />
           </Card.Footer>
@@ -111,9 +111,9 @@ render(){
             </Card.Text>
           </Card.Body>
           <Card.Footer className="card-footer">
-            <Button variant="primary" onClick={this.btnClick4.bind(this)}>Details</Button>
+            <Button variant="primary" onClick={this.btnClick4.bind(this)}>Click to See!</Button>
             <span className="icon-spacer"></span>
-            <SocialIcon url="https://kuljitkaur27.github.io/Project1tictactoe" />
+            <SocialIcon url="https://github.com/kuljitkaur27/Project1tictactoe" />
             </Card.Footer>
         </div>
       </Card>
