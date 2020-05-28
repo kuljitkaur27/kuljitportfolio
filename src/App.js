@@ -11,7 +11,7 @@ import { SocialIcon } from 'react-social-icons';
 
 class App extends Component {
   btnClick() {
-        window.open("https://gitconnected.com/kuljitkaur27/resume");
+        window.open("https://docs.google.com/document/d/1fFXejA2e33n-HVKEBvVLTLfrbBspQTR54OE8rlGq_Fo/edit?usp=sharing");
       }
   render(){
     const style = {
